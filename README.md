@@ -14,5 +14,7 @@ and displaying results.
     git clone https://github.com/DenyAnwar/todo_list_app_mobile.git
     ```
 2.  **Step 2.**
-    Run `npm install`
-    Run `npm run start` or `npx run start` to try out.
+    ```sh
+    - Run `npm install`
+    - Run `npm run start` or `npx run start` to try out.
+    ```
