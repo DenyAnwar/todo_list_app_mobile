@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b458967a-a116-427a-8590-6b3bf642b3f1"
+      }
+    },
+    "owner": "denyanwardev"
   }
 }
